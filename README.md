@@ -1,2 +1,2 @@
-# pasha.moe
- portfolio for pasha.moe
+# Portfolio
+This is my WIP portfolio website.
